@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9AB89E4225BD4AAB00CFE852 /* Extension+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB89E4125BD4AAB00CFE852 /* Extension+String.swift */; };
 		9AC9E4FA25BB147F00246ADA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC9E4F925BB147F00246ADA /* AppDelegate.swift */; };
 		9AC9E50125BB147F00246ADA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC9E4FF25BB147F00246ADA /* Main.storyboard */; };
 		9AC9E50325BB147F00246ADA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AC9E50225BB147F00246ADA /* Assets.xcassets */; };
@@ -70,6 +71,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9AB89E4125BD4AAB00CFE852 /* Extension+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+String.swift"; sourceTree = "<group>"; };
 		9AC9E4F625BB147F00246ADA /* Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Starter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC9E4F925BB147F00246ADA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9AC9E50025BB147F00246ADA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -280,6 +282,7 @@
 			children = (
 				9AC9E56D25BB1B8A00246ADA /* Extension+UIColor.swift */,
 				9AC9E57525BB1BAA00246ADA /* Extension+UITableView.swift */,
+				9AB89E4125BD4AAB00CFE852 /* Extension+String.swift */,
 				9AC9E57A25BB1BD100246ADA /* Extension+NSMutableAttributedString.swift */,
 				9AC9E57F25BB1C0000246ADA /* Extension+UIView.swift */,
 				9AC9E58425BB1C2C00246ADA /* Extension+UITextField.swift */,
@@ -500,6 +503,7 @@
 				9AC9E56825BB1B4D00246ADA /* NetworkStatus.swift in Sources */,
 				9AC9E55225BB1AC800246ADA /* RootRouter.swift in Sources */,
 				9AC9E5F625BB207600246ADA /* Storyboard.swift in Sources */,
+				9AB89E4225BD4AAB00CFE852 /* Extension+String.swift in Sources */,
 				9AC9E55725BB1AC800246ADA /* RootEntity.swift in Sources */,
 				9AC9E58A25BB1C7F00246ADA /* Extension+CAGradientLayer.swift in Sources */,
 				9AC9E4FA25BB147F00246ADA /* AppDelegate.swift in Sources */,
